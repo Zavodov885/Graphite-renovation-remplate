@@ -1,0 +1,3 @@
+/* Graphite: единственное место, где меняются цвета. Акцент утверждён: лайм. */
+:root{--bg:#0B0C0C;--surface:#121414;--surface-2:#1A1C1C;--border:#262929;--text:#F2F3EE;--text-2:#8A908C;
+--accent:#B8E600;--accent-contrast:#0E1100;--danger:#F0524F;--warning:#E8B339;--success:#B8E600;--radius:10px}
